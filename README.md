@@ -180,19 +180,3 @@ The final output is a clean, interactive, and executive-friendly dashboard that 
 
 **Purvi**  
 Aspiring Data Analyst | Power BI | Excel | Dashboard Design | Business Intelligence
-
----
-
-## Repository Description
-
-```txt
-End-to-end Power BI dashboard project analyzing sales performance, customer behavior, country contribution, and product trends using star schema modeling, DAX, and executive-style storytelling.
-```
-
----
-
-## Suggested GitHub Topics
-
-```txt
-powerbi, dashboard, business-intelligence, data-analysis, dax, power-query, star-schema, sales-dashboard, data-visualization, analytics-project
-```
